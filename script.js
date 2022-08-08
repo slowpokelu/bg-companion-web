@@ -21,6 +21,7 @@ let links = `
 <a href='https://mpcfill.com/' target='_blank'>MPC Fill</a><br>
 <a href='https://makeplayingcards.com/' target='_blank'>MPC</a><br>
 <a href='https://boardgamegeek.com/' target='_blank'>BGG</a><br>
+<a href='https://www.chess.com/' target='_blank'>Chess.com</a><br>
 `;
 
 let fileInput = `
