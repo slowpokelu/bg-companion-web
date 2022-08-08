@@ -20,6 +20,7 @@ let links = `
 <a href='https://cedh-decklist-database.com/' target='_blank'>cEDH Decklist Database</a><br>
 <a href='https://mpcfill.com/' target='_blank'>MPC Fill</a><br>
 <a href='https://makeplayingcards.com/' target='_blank'>MPC</a><br>
+<a href='https://boardgamegeek.com/' target='_blank'>BGG</a><br>
 `;
 
 let fileInput = `
