@@ -17,7 +17,7 @@ let links = `
 <a href='https://www.cardmarket.com/en/Magic' target='_blank'>CardMarket</a><br>
 <a href='https://edhrec.com/' target='_blank'>EDHRec</a><br>
 <a href='https://spelltable.com/' target='_blank'>Spelltable</a><br>
-<a href='https://cedh-decklist-database.com/' target='_blank'>cEDH Decklist Database</a><br>
+<a href='https://cedh-decklist-database.com/' target='_blank'>cEDH DDB</a><br>
 <a href='https://mpcfill.com/' target='_blank'>MPC Fill</a><br>
 <a href='https://makeplayingcards.com/' target='_blank'>MPC</a><br>
 <a href='https://boardgamegeek.com/' target='_blank'>BGG</a><br>
